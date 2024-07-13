@@ -1,0 +1,33 @@
+
+body{
+    box-sizing: border-box;
+}
+.search-part{
+    background-color: #dadbf1;
+    padding: 10px;
+}
+.search div{
+    width: 500px;
+}
+.search div input{
+    width: 300px;
+}
+.search div input:focus{
+    border: none;
+    outline: none;
+}
+.header-contex{
+    font-size: 18px;
+}
+.paragraf-contex{
+    font-size: 15px;
+}
+.icon {
+    font-size: 30px;
+}
+.head-footer{
+    font-size: 20px;
+}
+.para-footer{
+    font-size: 12px;
+}
